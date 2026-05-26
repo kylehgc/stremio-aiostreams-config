@@ -342,7 +342,7 @@
                     {
                         "type":  "more-like-this",
                         "instanceId":  "1c3",
-                        "enabled":  true,
+                        "enabled":  false,
                         "options":  {
                                         "name":  "More Like This",
                                         "timeout":  7000,
@@ -1069,6 +1069,6 @@
 
                             ],
     "hideErrorsForResources":  [
-
+                                   "stream"
                                ]
 }
