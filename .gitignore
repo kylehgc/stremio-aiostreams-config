@@ -1,0 +1,4 @@
+# Just in case
+*.local.json
+credentials.txt
+.env
