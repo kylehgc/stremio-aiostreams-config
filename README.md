@@ -21,7 +21,7 @@ All `REDACTED` placeholders mark removed secrets:
 
 1. Open https://aiostreams.elfhosted.com/stremio/configure
 2. Navigate to Save / Install menu
-3. Click **Import** and select one of these JSON files
+3. Click **Import Template** and select one of these JSON files, or import the raw GitHub URL
 4. Re-enter your credentials wherever you see `REDACTED`:
    - Services → Real-Debrid + TorBox API keys
    - Settings (or Metadata section) → TMDB Read Access Token + API Key
